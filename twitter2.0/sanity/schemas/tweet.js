@@ -9,7 +9,7 @@ export default {
       type: 'string',
     },
     {
-      name: 'BlockTweet',
+      name: 'blockTweet',
       title: 'Block Tweet',
       discription: 'ADMIN Controls: Tooggle if Tweet is deemed inappropriate',
       type: 'boolean',
